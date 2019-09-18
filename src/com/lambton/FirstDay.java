@@ -12,8 +12,7 @@ public class FirstDay
         //Value Assignment
         a = 10;
         b = 20;
-
-        //Perform add
+        
         c = a + b;
 
         //Display Result
