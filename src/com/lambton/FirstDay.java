@@ -6,13 +6,17 @@ public class FirstDay
     {
         System.out.println("Welcome to Java Programming");
 
+        //Variable declaration
         int a, b, c;
 
+        //Value Assignment
         a = 10;
         b = 20;
 
+        //Perform add
         c = a + b;
 
+        //Display Result
         System.out.println("SUM : " + c);
 
     }
